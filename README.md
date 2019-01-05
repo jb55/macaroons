@@ -11,3 +11,4 @@ Changes:
   * Reduced the number of required dependencies
   * Verification is simplified, it returns a Bool.
   * [Single-file](src/Crypto/Macaroons.hs) implementation
+  * Some useful [Verifiers](src/Crypto/Macaroons/Verifiers.hs)
